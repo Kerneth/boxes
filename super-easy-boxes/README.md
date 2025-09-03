@@ -7,7 +7,7 @@ Rather than simple writeups, I document each case as if it were a **real penetra
 
 ## 📂 Reports Index
 
-- [JinjaCare](JinjaCare_Report_HTB.md) → SSTI → RCE → Root
+- [JinjaCare](JinjaCare_Report_HTB.md) → SSTI → RCE → Flag
 
 ---
 
