@@ -66,7 +66,7 @@ We've got the message "id is not provided", so the next thing is to find some id
 When we put the id of neo_system, there is, indeed, an IDOR.
 
 
-![Q5](images/id_transa_download_neovault.png)
+![Q5](images/id_transa_dowload_neovault.png)
 
 
 ### 🧩 Exploitation Walkthrough
