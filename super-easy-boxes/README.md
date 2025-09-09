@@ -8,6 +8,7 @@ Rather than simple writeups, I document each case as if it were a **real penetra
 ## 📂 Reports Index
 
 - [JinjaCare](JinjaCare_Report_HTB.md) → SSTI → RCE → Flag
+- [NeoVault](NeoVault_Report_HTB.md) → IDOR → Unauthorized access report → Flag
 
 ---
 
@@ -44,5 +45,6 @@ Each report is structured as follows:
 
 ## 🏁 Progress Tracking
 
-- [x] JinjaCare – Report delivered  
+- [x] JinjaCare – Report delivered
+- [x] NeoVault - Report dellivered
 - [ ] Criticalops – In progress
