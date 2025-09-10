@@ -94,7 +94,7 @@ The "user_with_flag" seems interesting, so we need to have his id. To do this, w
 Now we just need to put his id and retrieve his transaction report
 
 
-![Q9](images/user_with_flag_neovault.png)
+![Q9](images/flag_neovault.png)
 
 
 ### ✅ Conclusion
